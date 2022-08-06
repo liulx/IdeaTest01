@@ -12,4 +12,8 @@ public class test01 {
     public static void eat(String name){
         System.out.println(name + " eat");
     }
+
+    public static void drink(){
+        System.out.println("bear");
+    }
 }
